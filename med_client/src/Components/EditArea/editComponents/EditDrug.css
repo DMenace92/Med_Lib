@@ -1,0 +1,165 @@
+.EditDrugMainWrapper {
+    display: flex;
+    justify-content: center;
+    width:100vmax;
+    
+    margin: 20px;
+}
+
+.EditDrugMainContainer {
+    
+    width: 40%;
+}
+
+.EditDrugMainPaper {
+    border-radius: 30px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.EditDrugMainPaper h2 {
+
+    margin-bottom: 20px;
+}
+
+.EditDrugInputs {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+/* Style for the submit button */
+button {
+    background-color: #3037ffd3;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* button:hover {
+    background-color: #1c1e7f;
+} */
+
+/* Optional: Style for the text fields */
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #3037ffd3;
+}
+
+.MuiInputLabel-outlined.Mui-focused {
+    color: #3037ffd3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .AddMfrMainWrapper {
+    display: flex;
+    
+    float: right;
+    width: 80vmax;
+    height: 45vmax;
+  
+    margin: 24px;
+    border: 1px solid black;
+   
+}
+
+.AddMfrMainContainer {
+    display: flex;
+   
+    width: 80vmax;
+}
+
+.AddMfrMainPaper {
+ 
+    display: inline-flex;
+    flex-direction: column;
+
+
+    width: 30vmax;
+}
+
+.AddMfrInputs {
+    width: 20vmax;
+    flex-wrap: nowrap;
+
+
+} */
+
+
+
+/* .mainDrugEditWrapper{
+    display: flex;
+    float: right;
+    width: 80vmax;
+    height: 45vmax;
+    margin: 24px;
+    justify-content: center;
+}
+.drugEditContainer{
+    display:flex;
+    flex-direction: column;
+    width:40vmax;
+    
+}
+.editDrugInputHolder{
+    width:30vmax;
+    padding:10px;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   
+   
+  
+}
+.drugEditInput{
+    margin:20px;
+    width:30vmax;
+    height:20px;
+} */
+
+
+/* 
+
+.mainDrugEditContainer {
+    display: flex;
+    justify-content: center;
+    margin: 24px;
+}
+
+.drugEditWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 40vmax;
+    padding: 20px;
+}
+
+.editDrugInputHolder {
+    width: 30vmax;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.drugEditInput {
+    margin: 10px 0;
+    width: 100%;
+}
+
+.saveButton {
+    margin-top: 20px;
+} */

@@ -1,0 +1,55 @@
+.EditDSMainWrapper {
+    display: flex;
+    justify-content: center;
+    width:100vmax;
+    
+    margin: 20px;
+}
+
+.EditDSMainContainer {
+    
+    width: 40%;
+}
+
+.EditDSMainPaper {
+    border-radius: 30px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.EditDSMainPaper h2 {
+
+    margin-bottom: 20px;
+}
+
+.EditDSInputs {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+/* Style for the submit button */
+button {
+    background-color: #3037ffd3;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* button:hover {
+    background-color: #1c1e7f;
+} */
+
+/* Optional: Style for the text fields */
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #3037ffd3;
+}
+
+.MuiInputLabel-outlined.Mui-focused {
+    color: #3037ffd3;
+}

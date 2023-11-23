@@ -1,0 +1,111 @@
+﻿drugName,medDose,medUnit,form,generic,dClass,FDAAproved
+oxycodon,10,mg,tablet,1,CII,1
+hydrocodone/apap,10/325,mg,tablet,1,CII,1
+hydrocodone/apap,7.5/325,mg,tablet,1,CII,1
+hydrocodone/apap,5/325,mg,tablet,1,CII,1
+donepezil,10,mg,tablet,1,legend,1
+donepezil,5,mg,tablet,1,legend,1
+NP-Thyroid,15,mg,tablet,1,legend,1
+NP-Thyroid,30,mg,tablet,1,legend,1
+NP-Thyroid,60,mg,tablet,1,legend,1
+NP-Thyroid,90,mg,tablet,1,legend,1
+NP-Thyroid,120,mg,tablet,1,legend,1
+topiramate,25,mg,tablet,1,legend,1
+topiramate,50,mg,tablet,1,legend,1
+topiramate,100,mg,tablet,1,legend,1
+topiramate,200,mg,tablet,1,legend,1
+Farxiga,5,mg,tablet,1,legend,1
+Farxiga,10,mg,tablet,1,legend,1
+Omeprazole,10,mg,capsule,1,legend,1
+Omeprazole,20,mg,capsule,1,legend,1
+Omeprazole,40,mg,capsule,1,legend,1
+Omeprazole OTC,20,mg,tablet,1,OTC,1
+Ezetimibe ,10,mg,tablet,1,legend,1
+Quetiapine,25,mg,tablet,1,legend,1
+Quetiapine,50,mg,tablet,1,legend,1
+Quetiapine,100,mg,tablet,1,legend,1
+Quetiapine,150,mg,tablet,1,legend,1
+Quetiapine,200,mg,tablet,1,legend,1
+Quetiapine,300,mg,tablet,1,legend,1
+Quetiapine,400,mg,tablet,1,legend,1
+Tolterodine ER,2,mg,Capsule,1,legend,1
+Tolterodine ER,4,mg,Capsule,1,legend,1
+Tolterodine ,1,mg,tablet,1,legend,1
+Tolterodine ,2,mg,tablet,1,legend,1
+Azithromycin,250,mg,tablet,1,legend,1
+Azithromycin,500,mg,tablet,1,legend,1
+Azithromycin,600,mg,tablet,1,legend,1
+Azithromycin 15ml,100mg/5ml,mg/ml,suspension,1,legend,1
+Azithromycin 15ml,200mg/5ml,mg/ml,suspension,1,legend,1
+Azithromycin 22.5ml,200mg/5ml,mg/ml,suspension,1,legend,1
+Azithromycin 30ml,200mg/5ml,mg/ml,suspension,1,legend,1
+Buspirone,5,mg,tablet,1,legend,1
+Buspirone,7.5,mg,tablet,1,legend,1
+Buspirone,10,mg,tablet,1,legend,1
+Buspirone,15,mg,tablet,1,legend,1
+Buspirone,30,mg,tablet,1,legend,1
+Tadalafil,2.5,mg,tablet,1,legend,1
+Tadalafil,5,mg,tablet,1,legend,1
+Tadalafil,10,mg,tablet,1,legend,1
+Tadalafil,20,mg,tablet,1,legend,1
+Tamsulosin,0.4,mg,capsule,1,legend,1
+Desvenlafaxine ER,50,mg,tablet,1,legend,1
+Desvenlafaxine ER,100,mg,tablet,1,legend,1
+Rosuvastatin,5,mg,tablet,1,legend,1
+Rosuvastatin,10,mg,tablet,1,legend,1
+Rosuvastatin,20,mg,tablet,1,legend,1
+Rosuvastatin,40,mg,tablet,1,legend,1
+Eletriptan ,20,mg,tablet,1,legend,1
+Eletriptan ,40,mg,tablet,1,legend,1
+Duloxetine DR,20,mg,tablet,1,legend,1
+Duloxetine DR,30,mg,tablet,1,legend,1
+Duloxetine DR,40,mg,tablet,1,legend,1
+Duloxetine DR,60,mg,tablet,1,legend,1
+Valsartan,40,mg,tablet,1,legend,1
+Valsartan,80,mg,tablet,1,legend,1
+Valsartan,160,mg,tablet,1,legend,1
+Valsartan,320,mg,tablet,1,legend,1
+Carvedilol,3.125,mg,tablet,1,legend,1
+Carvedilol,6.25,mg,tablet,1,legend,1
+Carvedilol,12.5,mg,tablet,1,legend,1
+Carvedilol,25,mg,tablet,1,legend,1
+Allopurinol,100,mg,tablet,1,legend,1
+Allopurinol,200,mg,tablet,1,legend,1
+Allopurinol,300,mg,tablet,1,legend,1
+Atomoxetin,10,mg,capsule,1,legend,1
+Atomoxetin,18,mg,capsule,1,legend,1
+Atomoxetin,25,mg,capsule,1,legend,1
+Atomoxetin,40,mg,capsule,1,legend,1
+Atomoxetin,60,mg,capsule,1,legend,1
+Atomoxetin,80,mg,capsule,1,legend,1
+Atomoxetin,100,mg,capsule,1,legend,1
+Alprazolam,0.25,mg,tablet,1,CIV,1
+Alprazolam,0.5,mg,tablet,1,CIV,1
+Alprazolam,1,mg,tablet,1,CIV,1
+Alprazolam,2,mg,tablet,1,CIV,1
+Alprazolam,0.5,mg,tablet,1,CIV,1
+Alprazolam,1,mg,tablet,1,CIV,1
+Alprazolam,2,mg,tablet,1,CIV,1
+Alprazolam,3,mg,tablet,1,CIV,1
+Fluconazole,50,mg,tablet,1,legend,1
+Fluconazole,100,mg,tablet,1,legend,1
+Fluconazole,150,mg,tablet,1,legend,1
+Fluconazole,200,mg,tablet,1,legend,1
+celecoxib,50,mg,capsule,1,legend,1
+celecoxib,100,mg,capsule,1,legend,1
+celecoxib,200,mg,capsule,1,legend,1
+celecoxib,400,mg,capsule,1,legend,1
+Pantoprazole DR,20,mg,tablet,1,legend,1
+Pantoprazole DR,40,mg,tablet,1,legend,1
+Eszopiclone,1,mg,tablet,1,legend,1
+Eszopiclone,2,mg,tablet,1,legend,1
+Eszopiclone,3,mg,tablet,1,legend,1
+Midodrine,2.5,mg,tablet,1,legend,1
+Midodrine,5,mg,tablet,1,legend,1
+Midodrine,10,mg,tablet,1,legend,1
+Olanzapine,2.5,mg,tablet,1,legend,1
+Olanzapine,5,mg,tablet,1,legend,1
+Olanzapine,7.5,mg,tablet,1,legend,1
+Olanzapine,10,mg,tablet,1,legend,1
+Olanzapine,15,mg,tablet,1,legend,1
+Olanzapine,20,mg,tablet,1,legend,1

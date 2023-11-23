@@ -1,0 +1,109 @@
+
+.MMPMainContainer{
+
+   
+}
+.forcedDesign{
+    display: flex;
+    float: left;
+    margin-left: 25vmax;
+    
+}
+.drugMFScrollableView {
+    display: flex;
+    flex-direction: column;
+    border-radius: 50px;
+    height: 83vmin;
+    width:auto;
+    margin-top: 8px;
+    margin-right: -8px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.drugMFScrollableView::-webkit-scrollbar {
+    width: 10px;
+}
+
+.drugMFScrollableView::-webkit-scrollbar-track {
+    /* background-color: darkgray; */
+    opacity: 50%;
+    /* background-color: rgba(255, 255, 255, 0.826); */
+}
+
+.drugMFScrollableView::-webkit-scrollbar-thumb {
+    /* box-shadow: inset 0 0 6px rgb(95, 92, 249); */
+    box-shadow: inset 0 0 6px #000000;
+
+}
+
+.drugMFMainContainer {
+    
+    /* border: 1px solid black; */
+    width:30vmax;
+
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    justify-content: center;
+
+    margin-right: 20px;
+    /* border:1px solid black; */
+    
+
+
+}
+
+/* .GridDesignIdea {
+    background-color: #d4d4d4;
+    width: 100vmax;
+    margin: 10px;
+} */
+.GridDesignDrugMF{
+    /* border-radius: 50px !important; */
+    
+}
+
+.PaperMedDesignDrugMF {
+    border-radius: 30px !important;
+    border:2px solid #3037ff91;
+    border-radius: 30px;
+    margin: 33px;
+    width: 19vmax;
+    height: auto;
+    
+    /* background-color: #7c80ff !important; */
+    /* background-color: #d4d4d4 !important; */
+    /* opacity: 0.6; */
+    /* background-image: radial-gradient(#00035d 0.6000000000000001px, #a9a9a9 0.6000000000000001px);
+    background-size: 12px 12px; */
+
+}
+
+.drugMFMainWrapper {
+   
+    /* margin: 20px; */
+    border-radius: 30px !important;
+
+    height:20vmax;
+    /* position: relative; */
+    
+
+
+}
+.dNameStyle{
+    font-size:16px !important;
+}
+
+/* .drugLibraryCardContent {
+    height: 5vmax;
+
+
+} */
+
+.drugLibraryTypography {
+
+    height: 10vmax;
+    overflow-y: scroll;
+
+}

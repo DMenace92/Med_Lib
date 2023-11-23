@@ -1,0 +1,107 @@
+.AddMfrMainWrapper {
+    display: flex;
+    justify-content: center;
+    width:40vmax;
+    
+    
+    margin: 20px;
+}
+
+.AddMfrInputs .MuiInputBase-root{
+    height:3vmax;
+    
+}
+
+.AddMfrMainContainer {
+    
+    /* width: 40%; */
+}
+
+.AddMfrMainPaper {
+    border-radius: 30px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+    height:70vmin;
+}
+
+.AddMfrMainPaper h2 {
+
+    margin-bottom: 20px;
+}
+
+/* .AddMfrInputs{
+    justify-content: space-between;
+} */
+
+/* Style for the submit button */
+button {
+    background-color: #3037ffd3;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* button:hover {
+    background-color: #1c1e7f;
+} */
+
+/* Optional: Style for the text fields */
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #3037ffd3;
+}
+
+.MuiInputLabel-outlined.Mui-focused {
+    color: #3037ffd3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .AddMfrMainWrapper {
+    display: flex;
+    
+    float: right;
+    width: 80vmax;
+    height: 45vmax;
+  
+    margin: 24px;
+    border: 1px solid black;
+   
+}
+
+.AddMfrMainContainer {
+    display: flex;
+   
+    width: 80vmax;
+}
+
+.AddMfrMainPaper {
+ 
+    display: inline-flex;
+    flex-direction: column;
+
+
+    width: 30vmax;
+}
+
+.AddMfrInputs {
+    width: 20vmax;
+    flex-wrap: nowrap;
+
+
+} */

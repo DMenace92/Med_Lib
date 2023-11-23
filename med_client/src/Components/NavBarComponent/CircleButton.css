@@ -1,0 +1,9 @@
+.MainCirclecontainer {
+    position: absolute;
+    border-radius:
+        50%;
+    height: 4vmax;
+    width: 5vmax;
+    background-color: black;
+    margin-top: -8px;
+}

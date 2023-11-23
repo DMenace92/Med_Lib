@@ -1,0 +1,37 @@
+.EditSidePannel {
+    position: absolute;
+    /* height: 49.8vmax; */
+    height: auto;
+    width: 15vmax;
+    border: 5px none;
+    border-radius: 15px;
+}
+
+.SidePannelElements {
+    height: 4vmax;
+    width: auto;
+    margin: 10px;
+    margin-bottom: 10px;
+    /* border: 1px solid black; */
+    border-radius: 15px;
+}
+#EDButtonStyle{
+    width:15vmax ;
+    margin-top:30px;
+
+}
+
+
+/* #EDButtonStyle:hover{
+    background-color: rgb(1, 9, 63);
+
+} */
+
+#EDButtonStyle:hover,
+.EditSidePannel button.active {
+    background-color: rgb(1, 9, 63);
+}
+
+/* .SidePannelElements:hover {
+    background-color: rgba(110, 129, 251, 0.297);
+} */
